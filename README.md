@@ -28,6 +28,9 @@ go get -d -v
 ```bash
 go run main.go
 ```
+<p align="center" width="100%">
+ <img src="./docs/image.png" alt="image"/>
+</p>
 
 5. Follow the prompts to interact with the smart contract.
 
